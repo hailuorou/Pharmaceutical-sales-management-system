@@ -6,7 +6,7 @@
 
 登录界面
 
-![[Pharmaceutical-sales-management-system/登录.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/登录.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/%E7%99%BB%E5%BD%95.png)
 
 系统首页
 
