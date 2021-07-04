@@ -10,28 +10,28 @@
 
 系统首页
 
-![[Pharmaceutical-sales-management-system/首页.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/首页.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/首页.png)
 
 药品管理
 
-![[Pharmaceutical-sales-management-system/药品管理.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/药品管理.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/药品管理.png)
 
 进货管理
 
-![[Pharmaceutical-sales-management-system/进货管理.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/进货管理.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/进货管理.png)
 
 供应商管理
 
-![[Pharmaceutical-sales-management-system/供应商.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/供应商.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/供应商.png)
 
 数据查询
 
-![[Pharmaceutical-sales-management-system/数据查询.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/数据查询.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/数据查询.png)
 
 项目运行首先新建一个psms的数据库然后运行db.sql文件
 
 然后再IDEA中打开项目，然后再选项中找到view下的LoginFrame点击运行即可启动项目。
 
-![[Pharmaceutical-sales-management-system/运行.png at main · hailuorou/Pharmaceutical-sales-management-system (github.com)](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/运行.png)]()
+![](https://github.com/hailuorou/Pharmaceutical-sales-management-system/blob/main/image/运行.png)
 
 进入到登录界面，项目的登录用户名位：超级管理员，密码为：123456
